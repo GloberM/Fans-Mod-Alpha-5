@@ -1,4 +1,4 @@
-Dont copy this mod or any of its contents
+D\ont copy this mod or any of its contents
 
 --To intsall follow instrutions-- I(for windows only)
 
