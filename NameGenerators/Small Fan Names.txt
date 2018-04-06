@@ -1,0 +1,37 @@
+-start(base)
+-base(base2,end,stop)
+ Kyoga
+ ANSIO
+ Honeywell
+ Oypla Electrical
+ Lasko
+ Glamouric
+ Igenix
+ Seville
+ Vornado
+ Holmes
+ Dyson
+ Alen
+-base2(end,stop)
+ Kool
+ TurboForce
+ Elegance
+ UltraSlimline
+ Lil' Blizzard
+ BreatheSmart
+-material(color,end,stop)
+ Metal
+ Plastic
+ Titanium
+ Air Multiplier
+-color(end,stop)
+ Black
+ White
+ Red
+ Yellow
+ Green
+-end(stop)
+Micro
+Mini
+Small Edition
+Small

@@ -1,0 +1,10 @@
+1. Added Sci-fi Fan Category
+2. Added XL Fan Category
+3. Improved Names
+4. Optimised Fans
+5. Added Magnetic Motors
+6. Added Holographic Displays
+7. Added Mind Controlled Controller
+8. Fixed Motor Sizes For Categories
+
+--6/4/2018 15:59 (GMT)--
