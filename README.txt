@@ -1,6 +1,6 @@
-D\ont copy this mod or any of its contents
+Dont copy this mod or any of its contents
 
---To intsall follow instrutions-- I(for windows only)
+--To intsall follow instrutions-- (for windows only)
 
 1.Find the FansMod 2.1
 2.Copy itm (ctrl + c)
