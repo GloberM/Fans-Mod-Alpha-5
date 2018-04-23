@@ -1,0 +1,13 @@
+-start(base)
+Super
+Mega
+.
+-base(base2,end,stop)
+Boiler
+Boil Machine
+-base2(end,stop)
+2000
+400
+860
+9200
+-end(stop)
